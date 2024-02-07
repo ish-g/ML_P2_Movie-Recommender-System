@@ -2,6 +2,7 @@
 
 ## 🎬 Overview
 This project is a movie recommender web application developed as a part of a data science project. The web app recommends 5 similar movies based on user input using machine learning.
+[Link to Web App](https://mlp2movie-recommender-system-x69tdzudaoermgv8bjarjw.streamlit.app/)
 
 ## 🌟 Web App Screenshot
 ![Web App Screenshot](capture_webapp_movies_recommender.png)
